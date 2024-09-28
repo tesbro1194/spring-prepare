@@ -12,6 +12,7 @@ import lombok.*;
 public class Memo {
     private String username;
     private String contents;
-
-
 }
+
+// application.properties : 스프링 부트를 사용함으로써 기본 설정되는 것들을 수정할 수 있음.
+// 또한 데이터베이스에 정보를 제공할 때 쉽게 값을 전달할 수 있게 됨.
